@@ -1,7 +1,7 @@
 # JavaScript Calculator Project – README
 
 ## Adding Images to README
-To add images, place your image files (like `calculator.png`) in your project folder. Then, use this syntax in your README:
+
 
 ```
 ![Calculator Screenshot](Screenshot1.png)
@@ -9,7 +9,7 @@ To add images, place your image files (like `calculator.png`) in your project fo
 ![Calculator Screenshot](Screenshot3.png)
 ```
 
-Replace `images/calculator.png` with the correct path to your image. 
+
 
 
 
